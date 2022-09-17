@@ -2,3 +2,8 @@
 .vs/
 bin/
 .ccls
+x64/
+raycasterEngine.sln
+raycasterEngine.vcxproj
+raycasterEngine.vcxproj.filters
+raycasterEngine.vcxproj.user
