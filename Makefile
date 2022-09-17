@@ -1,4 +1,4 @@
 all: make
 
 make:
-	g++ main.cpp -o main `pkg-config opengl glut glu -cflags --libs` -pthread
+	g++ src/main.cpp -o bin/main `pkg-config opengl glut glu -cflags --libs` -pthread
